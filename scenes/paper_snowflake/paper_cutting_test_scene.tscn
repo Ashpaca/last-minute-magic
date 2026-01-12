@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://mxn7xs21rt1l"]
 
-[ext_resource type="Script" uid="uid://c1lpnd1j4a6qk" path="res://scenes/paper_cutting_test_scene.gd" id="1_gnhhg"]
+[ext_resource type="Script" uid="uid://c1lpnd1j4a6qk" path="res://scenes/paper_snowflake/paper_cutting_test_scene.gd" id="1_gnhhg"]
 
 [node name="PaperCuttingTestScene" type="Node2D"]
 script = ExtResource("1_gnhhg")
